@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkco2storage_github_io"]=self["webpackChunkco2storage_github_io"]||[]).push([[658],{6658:function(t,n,r){r.r(n),n["default"]="# Title\r\n\r\n## Introduction\r\nPlease watch this video.\r\n\r\n[[youtube:D2ttA9nsMfc]]\r\n\r\nNow, watch this:\r\n\r\n[[youtube:EacCAYDgSPo]]\r\n\r\n"}}]);
+//# sourceMappingURL=658.8e759b82.js.map
